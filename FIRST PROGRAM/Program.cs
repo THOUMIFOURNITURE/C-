@@ -10,7 +10,10 @@ namespace FIRST_PROGRAM
     {
         static void Main(string[] args)
         {
-            Console.WriteLine ("AHMED THOUMI");
+
+            //This is my first program
+
+            Console.WriteLine ("hello world");
             Console.ReadKey();
         }
     }
